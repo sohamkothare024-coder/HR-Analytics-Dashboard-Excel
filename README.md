@@ -2,7 +2,7 @@
 
 An interactive, dark-theme **HR Analytics dashboard built entirely in Excel** (formulas, dropdown filters, charts and conditional formatting). It analyses employee attrition, headcount, income, tenure, education and job satisfaction for 1,470 employees.
 
-![HR Analytics Dashboard](Images/dashbords.png)
+![HR Analytics Dashboard](Images/dashboard.png)
 
 ![Attrition Drivers](Images/attrition-drivers.png)
 
